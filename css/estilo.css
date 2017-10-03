@@ -1,0 +1,46 @@
+
+.fondo{
+  background-color: #58ACFA;
+  background-size: cover;
+  -moz-background-size: cover;
+  -webkit-background-size: cover;
+  -o-background-size: cover;
+}
+.contenedor{
+  background: url("https://i0.wp.com/elpilon.com.co/wp-content/uploads/2016/04/Cano-Cristales.jpg?w=700") no-repeat center center fixed;
+  background-size: cover;
+  -moz-background-size: cover;
+  -webkit-background-size: cover;
+  -o-background-size: cover;
+  margin-top: 100px;
+}
+#cabecera{
+  padding-top: 1%;
+}
+
+.logo{
+  display: block;
+  text-align: center;
+}
+
+#menu{
+  text-align: center;
+  position: fixed;
+}
+
+#titulo{
+  padding-top: 5%;
+  font-size: 250%;
+  font-style: italic;
+  text-shadow: 2px 2px 2px #02010a;
+}
+.social-icon{
+  max-width: 60px;
+}
+#contenido{
+  padding-left: 5%;
+}
+.articulo,
+.perfil{
+  background-color: white;
+}
